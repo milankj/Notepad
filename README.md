@@ -11,7 +11,7 @@ A simple responsive notepad web applicaition
 
 #DEMO
 
-[Note APP]
+[Note App]
 
 #LISCENCE
 
