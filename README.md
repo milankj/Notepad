@@ -16,12 +16,12 @@ A simple responsive notepad web applicaition
 
 
 
-![Create New note](/images/create-note.png "Create Note")
+![Create New note](./public/images/create-note.png "Create Note")
 
 
 
 
-![Add Note](/images/add-note.png "Add Note")
+![Add Note](./public/images/add-note.png "Add Note")
 
 
 
