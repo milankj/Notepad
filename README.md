@@ -7,11 +7,7 @@ A simple responsive notepad web applicaition
     -Can Add and Delete Notes 
     -Notes saved in browser
     -Title will be first line
-    -Other basic editor functionalities\
-
-#DEMO
-
-[Note App]
+    -Other basic editor functionalities
 
 #LISCENCE
 
